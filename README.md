@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alanms
 - 👀 I’m interested in development, learning, design, art, photography, music and movies.
-- 🌱 I’m currently learning frontend technologies.
+- 🌱 I’m currently learning new technologies.
 - 💞️ I’m looking to collaborate on nice projects.
 - 📫 How to reach me: shawwhip@gmail.com
 
